@@ -100,3 +100,6 @@ secrets.json
 *.trace
 
 # Forge Modules:
+
+# Ingore Forge Asset Modules
+public/assets/modules/*
