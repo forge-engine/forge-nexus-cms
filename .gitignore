@@ -1,6 +1,6 @@
 # Ignore sensitive environment files
-!.env
 !.env.example
+.env
 
 # Ignore compiled source code
 /vendor/
